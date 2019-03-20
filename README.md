@@ -20,12 +20,12 @@ Le "commit" doit être structuré comme suit :
 `feat:` Une nouvelle fonctionnalité.<br>
 `fix:` Correction d'un bug.<br>
 `perf:` Un changement de code qui améliore les performances. <br>
-`refactor:` Un changement de code qui corrige pas un bug et n'ajoute pas de fonctionnalité. <br>
+`refactor:` Un changement de code qui ne corrige pas un bug et n'ajoute pas de fonctionnalité. <br>
 `style:` Changements qui n'affectent pas la signification du code (exemple: espace blanc, formatage ...) <br>
 `test:` Ajout de tests manquant ou correction de tests existants. <br>
 
 ## Autheur
 - Augustin Ribreau - <i>Developpeur</i> - <a href="https://augustin.ribreau.co/" target="_blank">augustin.ribreau.co</a>
 
-Voir aussi la liste des <a href="https://github.com/AugustinRibreau/Convention-Commits/blob/master/source.txt" target="_blank">contributeurs</a> ayant participé à ce projet.
+Voir aussi la liste des <a href="https://github.com/AugustinRibreau/Convention-Commits/blob/master/source.txt" target="_blank">sources</a> ayant été utilisé.
 
