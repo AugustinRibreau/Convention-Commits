@@ -6,7 +6,7 @@ Voici donc une convention pour que vous puissiez envoyer vos commits .
 ## Commençons
 
 Le "commit" doit être structuré comme suit :
-```bash
+```
 <type>[champs des options] : <Description>
 
 [option body]
