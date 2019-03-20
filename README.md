@@ -13,7 +13,7 @@ Le "commit" doit être structuré comme suit :
 
 [option footer]
 ```
-## Voici donc les structures à apprendre et à appliquer :<br><br>
+## Voici donc les différents types :<br><br>
 `build:` Changements qui affectent le système de compilation. (exemple: npm, broccoli, gulp ...)<br>
 `ci:` Modifications de fichier et/ou scripts de configuration CI. (exemple: Travis, Circle, BrowserStack ...)<br>
 `docs:` Modifications de la documentation uniquement.<br>
