@@ -1,4 +1,4 @@
-# Conventional Commits
+# 👊 Conventional Commits
 :wave: Bienvenue sur la convention pour les commits github/gitlab. <br>
 Le commit est souvent négligé auprès des jeunes développeur. <br>
 Voici donc une convention pour que vous puissiez envoyer vos commits .
