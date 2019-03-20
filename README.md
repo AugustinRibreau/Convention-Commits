@@ -1,6 +1,6 @@
 # Conventional Commits
 :wave: Bienvenue sur la convention pour les commits github/gitlab. <br>
-Le commit est souvent négligé auprès des jeunes développeur. <br>
+Le commit est souvent négligé auprès des jeunes développeurs. <br>
 Voici donc une convention pour que vous puissiez envoyer vos commits proprement.
 
 ## Commençons
@@ -23,7 +23,7 @@ Le "commit" doit être structuré comme suit :
 `refactor:` Un changement de code qui ne corrige pas un bug et n'ajoute pas de fonctionnalité. <br>
 `style:` Changements qui n'affectent pas la signification du code (exemple: espace blanc, formatage ...) <br>
 `test:` Lors d'un test de commit. <br>
-`security:` Lors d'une résolution de sécuritée. <br>
+`security:` Lors d'une résolution de sécurité. <br>
 `performance:` Lors d'une résolution de performance (optimisation inclus). <br>
 `improuvement:` Lors d'une validation d'amélioration rétro-compatible. <br>
 `breaking:` Lors d'une validation d'amélioration incompatible avec les versions antérieures. <br>
