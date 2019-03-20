@@ -33,7 +33,7 @@ Le "commit" doit être structuré comme suit :
 `update:` Utiliser lors de la mise à jour. <br>
 
 ## A savoir
-#### Presenter
+### Presenter
 Le sujet contient une description écourté du changement:
 
 - utiliser le présent: "changer" pas "changé" ni "changements"
