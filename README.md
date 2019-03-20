@@ -1,7 +1,7 @@
 # Conventional Commits
 :wave: Bienvenue sur la convention pour les commits github/gitlab. <br>
 Le commit est souvent négligé auprès des jeunes développeur. <br>
-Voici donc une convention pour que vous puissiez envoyer vos commits .
+Voici donc une convention pour que vous puissiez envoyer vos commits proprement.
 
 ## Commençons
 
@@ -33,7 +33,6 @@ Le "commit" doit être structuré comme suit :
 `update:` Utiliser lors de la mise à jour. <br>
 
 ## A savoir
-### Presenter
 Le sujet contient une description écourté du changement:
 
 - utiliser le présent: "changer" pas "changé" ni "changements"
