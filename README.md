@@ -40,7 +40,7 @@ Le sujet contient une description écourté du changement:
 - ne mettez pas la première lettre en majuscule
 - pas de point (.) à la fin
 
-## Autheur
+## Auteur
 - Augustin Ribreau - <i>Developpeur</i> - <a href="https://augustin.ribreau.co/" target="_blank">augustin.ribreau.co</a>
 
 Voir aussi la liste des <a href="https://github.com/AugustinRibreau/Convention-Commits/blob/master/source.txt" target="_blank">sources</a> ayant été utilisé.
