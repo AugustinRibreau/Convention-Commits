@@ -40,7 +40,7 @@ Le sujet contient une description écourté du changement:
 - pas de point (.) à la fin
 
 ## Auteur
-- Augustin Ribreau - <i>Developpeur</i> - <a href="https://augustin.ribreau.co/" target="_blank">augustin.ribreau.co</a>
+- Augustin Ribreau - <i>Developpeur</i> - <a href="https://augustinribreau.com" target="_blank">augustinribreau.com</a>
 
 Voir aussi la liste des <a href="https://github.com/AugustinRibreau/Convention-Commits/blob/master/source.txt" target="_blank">sources</a> ayant été utilisé.
 
